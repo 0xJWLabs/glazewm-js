@@ -1,7 +1,7 @@
 {
-  "name": "glazewm",
+  "name": "glazewm-js",
   "version": "1.0.0",
-  "description": "Library for inter-process communication (IPC) with GlazeWM.",
+  "description": "Library for inter-process communication (IPC) with GlazeWM. Fork of (glzr-io/glazewm-js)",
   "keywords": [
     "glazewm",
     "windows",
@@ -9,7 +9,7 @@
     "ipc",
     "typescript"
   ],
-  "repository": "github:glzr-io/glazewm-js",
+  "repository": "github:0xJWLabs/glazewm-js",
   "license": "MIT",
   "sideEffects": false,
   "exports": {

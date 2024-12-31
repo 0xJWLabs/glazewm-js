@@ -20,6 +20,7 @@ export interface Window {
   displayState: DisplayState;
   title: string;
   processName: string;
+  processId: number;
   className: string;
   width: number;
   height: number;
